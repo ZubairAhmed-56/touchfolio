@@ -1,2 +1,15 @@
-# touchfolio
-Interactive social profile card with flipping animation (Flutter Web build)
+# TouchFolio
+
+An interactive social profile card with flipping animation, built using Flutter Web.
+
+🔹 **Features:**
+- Splash screen
+- 4 social cards
+- Page-flip animation on tap
+- Close on second tap
+
+📌 **Note:**  
+This repository only contains compiled build files from the project.  
+The original source code is private and not shared publicly.
+
+© 2025 Zubair Ahmed — All rights reserved.
