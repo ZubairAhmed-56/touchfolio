@@ -10,12 +10,12 @@ An interactive social profile card with flipping animation, built using Flutter 
 - Responsive UI – Works seamlessly on multiple devices
 
 If you like this project, give it a ⭐ on GitHub and connect with me
-GitHub : https://github.com/ZubairAhmed-56
-LinkedIn : https://www.linkedin.com/in/zubairahmed56/
+- GitHub : https://github.com/ZubairAhmed-56
+- LinkedIn : https://www.linkedin.com/in/zubairahmed56/
 
 📌 **Note:**  
 This repository only contains compiled build files from the project.  
-The original source code is private and not shared publicly.
+The original source code is private and not shared publicly.                                                                                                                                                         
 For Code, contact the author.
 
 © 2025 Zubair Ahmed — All rights reserved.
