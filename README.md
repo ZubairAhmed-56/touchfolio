@@ -18,8 +18,6 @@ This repository only contains compiled build files from the project.
 The original source code is private and not shared publicly.                                                                                                                                                         
 For Code, contact the author.
 
-© 2025 Zubair Ahmed — All rights reserved.
-
 ## 📸 Screenshots
 
 <p align="center">
